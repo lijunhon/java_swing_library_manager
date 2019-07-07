@@ -17,3 +17,7 @@ javac login.java
 java login
 
 ## 一些截图
+https://github.com/lijunhon/java_swing_library_manager/blob/master/pic/Screenshot_20190707_121810.png
+https://github.com/lijunhon/java_swing_library_manager/blob/master/pic/Screenshot_20190707_121906.png
+https://github.com/lijunhon/java_swing_library_manager/blob/master/pic/Screenshot_20190707_121918.png
+https://github.com/lijunhon/java_swing_library_manager/blob/master/pic/Screenshot_20190707_121931.png
